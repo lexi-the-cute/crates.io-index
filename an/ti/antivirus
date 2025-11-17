@@ -1,0 +1,1 @@
+{"name":"antivirus","vers":"0.1.0","deps":[{"name":"sdl2","req":"^0.38.0","features":["image"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"569b0ec3e18ae23432ec0e6e46eebac2a3b4d8df62478d2a8c9ae9704ceb2ced","features":{},"yanked":false}
