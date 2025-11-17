@@ -1,0 +1,1 @@
+{"name":"miscel","vers":"0.1.0","deps":[{"name":"physis","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e7e6719a60191380a11956b73d6f8d3d4384832cfb28c3ff411617ac69c23d07","features":{},"yanked":false}

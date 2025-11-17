@@ -1,0 +1,1 @@
+{"name":"input_query","vers":"0.1.0","deps":[{"name":"evdev","req":"^0.13.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"87446c076b704ea3077392a3523c1b4aab6356a30a6ad71b3ca4d4a027a8159e","features":{},"yanked":false}

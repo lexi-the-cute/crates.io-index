@@ -1,0 +1,9 @@
+{"name":"state-machines-core","vers":"0.1.0","deps":[],"cksum":"e9bfa34f19afc21ba4a80c8b65b8938defb0bc16a2d3ab64004274c6994d1e34","features":{},"yanked":false}
+{"name":"state-machines-core","vers":"0.1.1","deps":[],"cksum":"9361c92ead0c593f9658849ea17497ca0c85df844248ea0f695e83793c0ecc37","features":{},"yanked":false}
+{"name":"state-machines-core","vers":"0.2.0","deps":[],"cksum":"949cc50e84bed6234117f28a0ba2980dc35e9c17984ffe4e0a3364fba3e77540","features":{"default":[],"typestate":[]},"yanked":false}
+{"name":"state-machines-core","vers":"0.3.0","deps":[],"cksum":"76f4adbcac9916defe1765ecc9be6f0a4cef0d194e28610b00d330d7d3915de8","features":{"default":[],"typestate":[]},"yanked":false}
+{"name":"state-machines-core","vers":"0.4.0","deps":[],"cksum":"0d1285db733d63849983faf085cc44ce30c9128afc2e117d4c6c1c90aebdbad6","features":{"default":[],"typestate":[]},"yanked":false}
+{"name":"state-machines-core","vers":"0.4.1","deps":[],"cksum":"8a2c075bca04cf9d0a31aabb3362225344d13f5c2f2b9a5b61912a689a65dcb5","features":{"default":[],"typestate":[]},"yanked":false}
+{"name":"state-machines-core","vers":"0.5.0","deps":[],"cksum":"5791c4ad9f2a1ea15d5d0682f1af7c333050d07dc95ca8402e51ce3d82f59ec5","features":{"default":[],"typestate":[]},"yanked":false}
+{"name":"state-machines-core","vers":"0.6.0","deps":[],"cksum":"6a02fb802287fdcf0c9777a5032280d5f2a047b5aea72d92e01b5fbac5b81f41","features":{"default":[],"typestate":[]},"yanked":false}
+{"name":"state-machines-core","vers":"0.7.0","deps":[],"cksum":"ce72b6a1d599e9ae3c791101ccd1d451ad770d3f4669563f844827ace9b0df4a","features":{"default":[],"typestate":[]},"yanked":false}

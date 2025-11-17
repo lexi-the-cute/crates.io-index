@@ -1,0 +1,1 @@
+{"name":"formualizer-common","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5472c852226a14cd7e8b59bd055c76710c254b0e03d4c5c11a5e51dd731a8319","features":{},"yanked":false}

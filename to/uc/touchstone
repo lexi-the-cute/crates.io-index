@@ -1,0 +1,8 @@
+{"name":"touchstone","vers":"0.0.1","deps":[],"cksum":"5d47f9ddbb65174adca4a46baa27155a80f40d261ebf7a6269344083e2e78471","features":{},"yanked":false}
+{"name":"touchstone","vers":"0.0.2","deps":[],"cksum":"768d3b8edd9c101e153ce829df8ae9bf5f53b533bb120ece470ce20a1e0585fc","features":{},"yanked":false}
+{"name":"touchstone","vers":"0.1.0","deps":[],"cksum":"c3f1d57dfc81c80db760c955a0bfec96a1ccef71f15a535f68c3aaa9db8147ba","features":{},"yanked":false}
+{"name":"touchstone","vers":"0.2.0","deps":[],"cksum":"d749ce71b8d1078467ac77a3156506bf7735f73a6fbd97135a74a9babea9438a","features":{},"yanked":false}
+{"name":"touchstone","vers":"0.3.1","deps":[{"name":"rfconversions","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dfc2eac8960e4164b97a69597fbf208baa968bff387887991ddb145cfc1bbdcf","features":{},"yanked":false}
+{"name":"touchstone","vers":"0.4.0","deps":[{"name":"rfconversions","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fd2bff3811cf1d5d89ae0f5a347972c43cb1a3e45265b4569a993ab0a6cc4f7","features":{},"yanked":false}
+{"name":"touchstone","vers":"0.4.1","deps":[{"name":"rfconversions","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6bfa530617362758799eb907c251f3b9d1e2331158edebf4faa4a3e2af9ddc0f","features":{},"yanked":false}
+{"name":"touchstone","vers":"0.5.0","deps":[{"name":"rfconversions","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f627f3a952ee1a84185604d19d1a1267328b76c216e585df9a81af996b54082","features":{},"yanked":false}

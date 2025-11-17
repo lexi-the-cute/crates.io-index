@@ -1,0 +1,12 @@
+{"name":"agave-low-pass-filter","vers":"0.0.0","deps":[],"cksum":"d9c5247f9f08e1c744e7af0a7991b2c8075b96d4c6faa82cf72631b04483a654","features":{},"yanked":false}
+{"name":"agave-low-pass-filter","vers":"3.0.0","deps":[],"cksum":"d9e65bacf9959f602595382cbaafa47bc14e50dae0e8f2e49611e84a854ef143","features":{"agave-unstable-api":[]},"yanked":false}
+{"name":"agave-low-pass-filter","vers":"3.0.1","deps":[],"cksum":"601b4ff81665f1c832babbb9ab74570fccc43d40b8fdd03f4ea8d66f9729624e","features":{"agave-unstable-api":[]},"yanked":false}
+{"name":"agave-low-pass-filter","vers":"3.0.2","deps":[],"cksum":"e62c110324ddb5f8e0b0056d1c50121db0bba5bdafdd82eb33571d84ddbca317","features":{"agave-unstable-api":[]},"yanked":false}
+{"name":"agave-low-pass-filter","vers":"3.0.3","deps":[],"cksum":"d2e341553c57870495c8760e6abb54c9ede714555ae95f6c2dd6d48424c94cce","features":{"agave-unstable-api":[]},"yanked":false}
+{"name":"agave-low-pass-filter","vers":"3.0.4","deps":[],"cksum":"e71afea5b4a680a11f7ef2253b217f62e625589ea2e26e943e5c7843cb5d73a0","features":{"agave-unstable-api":[]},"yanked":false}
+{"name":"agave-low-pass-filter","vers":"3.0.5","deps":[],"cksum":"41681dcd1286c2e1ef68ac7983c35f58a2730e9b4cc231301292d3bf7dafb8d2","features":{"agave-unstable-api":[]},"yanked":false}
+{"name":"agave-low-pass-filter","vers":"3.0.6","deps":[],"cksum":"8afa37aec7416c292391ef18fb6ce3a0450904737557b0f93bbc92b3559e4d96","features":{"agave-unstable-api":[]},"yanked":false}
+{"name":"agave-low-pass-filter","vers":"3.0.7","deps":[],"cksum":"b4517c61eb94bcf0905a507f83521d9f5b94b8e5abcef985c10e0e20cd84f97e","features":{"agave-unstable-api":[]},"yanked":false}
+{"name":"agave-low-pass-filter","vers":"3.0.8","deps":[],"cksum":"08acc62295b4942470b31aeed7715aa029d5777bf7887e3fe441af7ecfc342ff","features":{"agave-unstable-api":[]},"yanked":false}
+{"name":"agave-low-pass-filter","vers":"3.0.9","deps":[],"cksum":"7a4dca890d7a4d107e175be30d8df0fb96fb410a3370863da1430179c2bc14bc","features":{"agave-unstable-api":[]},"yanked":false}
+{"name":"agave-low-pass-filter","vers":"3.0.10","deps":[],"cksum":"0c5972cc4358534f99a2c69e2658976c7dc8b922912f267e78ba0b59a499ae0b","features":{"agave-unstable-api":[]},"yanked":false}

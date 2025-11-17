@@ -1,0 +1,4 @@
+{"name":"build-rs","vers":"0.1.0","deps":[],"cksum":"1a5e60e41b5347408989f788cb3652118c4d699d717a20b993e39909c1d3f86b","features":{},"yanked":false}
+{"name":"build-rs","vers":"0.1.2","deps":[],"cksum":"b00b8763668c99f8d9101b8a0dd82106f58265464531a79b2cef0d9a30c17dd2","features":{},"yanked":false}
+{"name":"build-rs","vers":"0.3.1","deps":[{"name":"unicode-ident","req":"^1.0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d0466bb4013e90b22fb8e17e5e1717c49b8049aa46dc1692e3f74659d181c8b4","features":{"unstable":[]},"yanked":false,"rust_version":"1.83"}
+{"name":"build-rs","vers":"0.3.2","deps":[{"name":"unicode-ident","req":"^1.0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cde4c9ce1d8e6e94b4c0ee341c000d79335b7c55b7d7979b36ca803c85c091ba","features":{"unstable":[]},"yanked":false,"rust_version":"1.86"}
