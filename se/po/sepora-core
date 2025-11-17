@@ -1,0 +1,1 @@
+{"name":"sepora-core","vers":"0.1.1","deps":[{"name":"uuid","req":"^1.18.1","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e63a301eb93f1712c6df30ef77e0ff108191ed750dcc2bb9d19480e4eaa71766","features":{},"yanked":false}
