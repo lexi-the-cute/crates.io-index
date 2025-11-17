@@ -10,3 +10,4 @@
 {"name":"atools","vers":"0.1.9","deps":[],"cksum":"229dc56d2d63f9a9bebd2c34b298c6c142cfbd1587c8cb100ac81865eaf24ec1","features":{},"yanked":true,"rust_version":"1.85"}
 {"name":"atools","vers":"0.1.10","deps":[],"cksum":"b3dc7edbf411ccc4efc88a9538f0d1f22820fb5a62e1789dc07c0e75cfc861c8","features":{},"yanked":false,"rust_version":"1.85"}
 {"name":"atools","vers":"0.1.11","deps":[],"cksum":"bcc2cfb4538afbd2b92b2d67e64e57340d7e531c6ad0da7de5f5c105f8a191c6","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"atools","vers":"0.1.12","deps":[],"cksum":"59fdfa9d3089fc0aa2676b7b3fe46484581faeef796d7b19b6eb1b908664efc3","features":{},"yanked":false,"rust_version":"1.93"}
