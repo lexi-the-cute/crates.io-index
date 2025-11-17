@@ -1,1 +1,2 @@
 {"name":"llt-rs","vers":"0.1.0","deps":[{"name":"crossbeam-utils","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"085d8f6fa807572bd12aca01917d2f4fa27fdde0fb2a2de8e7af63400983bc05","features":{},"yanked":false}
+{"name":"llt-rs","vers":"0.2.0","deps":[{"name":"crossbeam-utils","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d61648d1f879058c4a22f29e4af17c4d11e56a8312f301139e354c9fda2f2a48","features":{"channel":[],"default":[]},"yanked":false}
