@@ -1,1 +1,2 @@
 {"name":"justrs","vers":"0.1.0","deps":[],"cksum":"ef55d087698130ba19058dd01d7957592f6b8aa255f534d4b12be408ef882d5f","features":{},"yanked":false,"rust_version":"1.91"}
+{"name":"justrs","vers":"0.1.1","deps":[{"name":"tempfile","req":"^3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"57b9b384a39fbb07936587aad92bf1a981ab64686ce8348db34aef3e1a9a96d0","features":{},"yanked":false,"rust_version":"1.91"}
