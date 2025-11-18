@@ -1,0 +1,1 @@
+{"name":"lh-adxl345","vers":"0.0.2","deps":[{"name":"embedded-hal","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8b9598073299f93f6438eb1255bd642ea6df6725fc91246376f5cf236b38ab59","features":{},"yanked":false}
