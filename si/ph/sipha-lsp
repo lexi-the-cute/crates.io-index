@@ -1,0 +1,1 @@
+{"name":"sipha-lsp","vers":"0.1.0","deps":[{"name":"sipha-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e66204b77d90406c843b2f10bc7021b2abe0eccb9172e524313ead712e877c8f","features":{},"yanked":false}
