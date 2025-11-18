@@ -13,3 +13,4 @@
 {"name":"resolv-conf","vers":"0.7.3","deps":[],"cksum":"fc7c8f7f733062b66dc1c63f9db168ac0b97a9210e247fa90fdc9ad08f51b302","features":{"system":[]},"yanked":false,"rust_version":"1.61"}
 {"name":"resolv-conf","vers":"0.7.4","deps":[],"cksum":"95325155c684b1c89f7765e30bc1c42e4a6da51ca513615660cb8a62ef9a88e3","features":{"system":[]},"yanked":false,"rust_version":"1.61"}
 {"name":"resolv-conf","vers":"0.7.5","deps":[],"cksum":"6b3789b30bd25ba102de4beabd95d21ac45b69b1be7d14522bab988c526d6799","features":{"system":[]},"yanked":false,"rust_version":"1.61"}
+{"name":"resolv-conf","vers":"0.7.6","deps":[],"cksum":"1e061d1b48cb8d38042de4ae0a7a6401009d6143dc80d2e2d6f31f0bdd6470c7","features":{"system":[]},"yanked":false,"rust_version":"1.61"}
