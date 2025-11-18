@@ -39,3 +39,4 @@
 {"name":"near-stdx","vers":"0.32.0","deps":[],"cksum":"ea6ace0729190881616f2234c601421a65dbf0e7535db673ddb732b04d2a9ab6","features":{},"yanked":false}
 {"name":"near-stdx","vers":"0.33.0","deps":[],"cksum":"0172f0e627b3a69e483773966d49e70273aa7784d90be6327c495944ae74716f","features":{},"yanked":false}
 {"name":"near-stdx","vers":"0.34.0-rc.1","deps":[],"cksum":"dbd77ef30b3d1f668e1534177634c519ca97e7d74b99db19f0e730a02efeb7f1","features":{},"yanked":false}
+{"name":"near-stdx","vers":"0.34.0-rc.2","deps":[],"cksum":"cb652905863ee15df0aa8a8c12c9b3523be6cc37e0179c3408e74605100395bd","features":{},"yanked":false}
