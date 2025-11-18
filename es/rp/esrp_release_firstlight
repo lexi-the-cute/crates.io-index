@@ -73,3 +73,4 @@
 {"name":"ESRP_Release_FirstLight","vers":"0.1.0-gd2c1125ab344424f","deps":[],"cksum":"e36d1f3c387048fbe059a744c99dd356ffa08ff5b6bdaa1c15d7bde58af7ba16","features":{},"yanked":false}
 {"name":"ESRP_Release_FirstLight","vers":"0.1.0-gf90299b7319b4eee","deps":[],"cksum":"63f7d0d2bf47b866304e237707644c94142a0a49b215e344650ce3ba544055e6","features":{},"yanked":false}
 {"name":"ESRP_Release_FirstLight","vers":"0.1.0-ge7be9b55eee747e6","deps":[],"cksum":"585f4fabacfa9c1a7759e33f7cf961daf6205797612956c09aecffc3849f1774","features":{},"yanked":false}
+{"name":"ESRP_Release_FirstLight","vers":"0.1.0-g878b859bd453453e","deps":[],"cksum":"e31fc9d1d32c3b3eb5d37482b29652c332a441b920c8c67c170f02cf7cd175b1","features":{},"yanked":false}
