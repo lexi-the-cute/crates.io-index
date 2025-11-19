@@ -1,0 +1,1 @@
+{"name":"lunac","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49887c2e16f76ed19ebde4f0f67579c92676bc617eb8e9684c12f5bd594a533c","features":{},"yanked":false}
