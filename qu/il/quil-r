@@ -1,1 +1,0 @@
-{"name":"quil-r","vers":"0.1.0","deps":[{"name":"glfw","req":"^0.60.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cffd5778a3fb7cca209a777ea7292d8b8f07e7e37f0d897d08eb223248812919","features":{},"yanked":false}
