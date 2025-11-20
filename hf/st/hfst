@@ -1,0 +1,1 @@
+{"name":"hfst","vers":"0.1.0","deps":[{"name":"hfst-sys","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9d18daadc57cbff22a1e145893677b5c632bcc9dc2d2b0c15f1224ef6c7184b0","features":{},"yanked":false}
