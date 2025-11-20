@@ -1,0 +1,1 @@
+{"name":"waddling-errors-hash","vers":"0.5.0","deps":[{"name":"ahash","req":"^0.8","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"8980172e366452bb6ea58a11ed1b165ff4d2cc17dc16ada8fefafcb91633c93b","features":{"default":["std"],"std":["ahash/std"]},"yanked":false}
