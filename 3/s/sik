@@ -1,0 +1,1 @@
+{"name":"sik","vers":"0.1.0","deps":[{"name":"regex","req":"^1.12.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6324f3ffc363a99a9c2bda3a6305da8b36e46b9f398404a68b4ebb5dc87a7150","features":{},"yanked":false}
