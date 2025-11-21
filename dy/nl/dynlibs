@@ -1,0 +1,1 @@
+{"name":"dynlibs","vers":"0.1.0","deps":[{"name":"goblin","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae37181c602ccb4e75800e3015a735a977d7927a4d54069458b77cd8ca054e3e","features":{},"yanked":false}
