@@ -34,3 +34,4 @@
 {"name":"klavier-helper","vers":"0.1.9","deps":[],"cksum":"fb936cc90c69b0b4ae1716ffca1a4a480f840fe421ed936d6849894a24dd968e","features":{},"yanked":false,"rust_version":"1.65"}
 {"name":"klavier-helper","vers":"0.1.10-beta.1","deps":[],"cksum":"d7cca70d61120cdb3f784dbc642bd50fce01b1ee8200cd16a174b33af8a039b5","features":{},"yanked":false,"rust_version":"1.65"}
 {"name":"klavier-helper","vers":"0.1.10","deps":[],"cksum":"5327b39874272cd6921733584a9665ca98fdc4b79fc2b9e1100e9687b53fd0d8","features":{},"yanked":false,"rust_version":"1.65"}
+{"name":"klavier-helper","vers":"0.1.11-beta.1","deps":[],"cksum":"dc4bdae8ebf7f367d81bcd667258fab7fa93a9a3733839b7c77a1b43ebdfea3a","features":{},"yanked":false,"rust_version":"1.65"}
