@@ -1,1 +1,2 @@
 {"name":"mdnt-groups-support","vers":"0.1.0","deps":[],"cksum":"92930a250447b06f3b6b64caaa63add0c0314e630d1486bce5e6c607d17f9b42","features":{"default":[]},"yanked":false,"rust_version":"1.85"}
+{"name":"mdnt-groups-support","vers":"0.2.0","deps":[],"cksum":"03e704bfa829dddf7c2cd9faf1c126be3af58661f266b37949a9001620c9ea4a","features":{},"yanked":false,"rust_version":"1.85"}
