@@ -12,3 +12,4 @@
 {"name":"address","vers":"0.13.0","deps":[],"cksum":"4dcf0252ebac6f6adf35986b17c5a84a2d90ece427712a198c8942822ec9c20a","features":{},"yanked":false}
 {"name":"address","vers":"0.14.0","deps":[],"cksum":"26e89a3d4a047535f62a617bad1f014a6f723036c10c06423bbc71e337a790b9","features":{},"yanked":false}
 {"name":"address","vers":"0.15.0","deps":[],"cksum":"b74f259601565ab0462bbc3eee928bb44e7ed955ab59e5576b38d6d0dfca4ffc","features":{},"yanked":false}
+{"name":"address","vers":"0.16.0","deps":[],"cksum":"aeb8ba77c70554f66f6946e94dfc144a1c482dd47cd4d42168b3f73dcd6df62b","features":{},"yanked":false}
