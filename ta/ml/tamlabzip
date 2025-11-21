@@ -1,0 +1,1 @@
+{"name":"tamlabzip","vers":"0.1.0","deps":[{"name":"rocket","req":"^0.5.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d5a0df47cefb929deac9b49730308092b6fda243efbb740b4dc378d7c2b7704c","features":{},"yanked":false}
