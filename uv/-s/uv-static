@@ -1,0 +1,1 @@
+{"name":"uv-static","vers":"0.0.1","deps":[{"name":"uv-macros","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"48e082eb11c9c70aef73045d4ea76509bcc7a823e42bfe69d8fd31a26605450e","features":{},"yanked":false,"rust_version":"1.89"}
