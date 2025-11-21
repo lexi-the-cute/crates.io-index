@@ -1,0 +1,1 @@
+{"name":"scorchkit","vers":"0.1.0","deps":[{"name":"burn","req":"^0.19.1","features":["wgpu"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7629536112f0b91197ed9047c34989c54b4af106a725da86cb33c4bef2de1803","features":{},"yanked":false}
