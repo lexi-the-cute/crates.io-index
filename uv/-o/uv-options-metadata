@@ -1,0 +1,1 @@
+{"name":"uv-options-metadata","vers":"0.0.1","deps":[{"name":"serde","req":"^1.0.210","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"23c77e6ea8d715bde31c5b7c698f6849199623bb17f23d8c167e8ee52b137e35","features":{},"yanked":false,"rust_version":"1.89"}
