@@ -6,3 +6,4 @@
 {"name":"bobcat-console","vers":"0.6.5","deps":[],"cksum":"ddda1f94d2679541f69ce3abe57ddf17ef0651c15383081c51e8f9431e35b84a","features":{},"yanked":false}
 {"name":"bobcat-console","vers":"0.6.6","deps":[],"cksum":"7461420f7156fa2654f9d1f2763327907841a067311a5fc7c526500629835ff1","features":{},"yanked":false}
 {"name":"bobcat-console","vers":"0.6.7","deps":[],"cksum":"0a257f54b2c5c2a13a173c161e41f71cf2e504a2bb0e956518d33a67a185f118","features":{},"yanked":false}
+{"name":"bobcat-console","vers":"0.6.8","deps":[],"cksum":"38428f760c5ed4080e89e81a66b3b8f80677c17239b247a5ba64eb1f62e5878c","features":{},"yanked":false}
