@@ -1,3 +1,4 @@
 {"name":"atomic_list","vers":"0.1.0","deps":[{"name":"haphazard","req":"^0.1.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"952e904dcd4b1fc04594ca777cc43929ac3a7ef4bd3ebf65d61079dcf3a1d566","features":{},"yanked":false}
 {"name":"atomic_list","vers":"1.0.0","deps":[],"cksum":"09e6d59a612abe563e4489a9ebc40d9c31fbeb5cdc6fde0d1b526d7a1aac4994","features":{},"yanked":false}
 {"name":"atomic_list","vers":"1.1.0","deps":[],"cksum":"5f74c1b6e7007de09f884fd961a028efdb8ccf3087ae85155cdbcd8f58e50a89","features":{},"yanked":false}
+{"name":"atomic_list","vers":"1.1.1","deps":[],"cksum":"ad3579a614820b5d6e5bdbfd618d6d79e4f36baa2f238eeb5d97feeeb78436e1","features":{},"yanked":false}
