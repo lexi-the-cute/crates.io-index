@@ -1,0 +1,1 @@
+{"name":"rotterna-lib","vers":"0.1.0","deps":[{"name":"regex","req":"^1.12.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"be031a6b262aeb30e8f465e35b8c8b251ad9776ca39d9973b696b41ae74e3ca5","features":{},"yanked":false}
