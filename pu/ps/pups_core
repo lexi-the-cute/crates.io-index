@@ -17,3 +17,4 @@
 {"name":"pups_core","vers":"0.1.11","deps":[],"cksum":"34ca17a4f76d01c7c26a68dc3b7db21d15a083d87812c9bb527b9a47910f8ed5","features":{},"yanked":false}
 {"name":"pups_core","vers":"0.1.12","deps":[],"cksum":"798e01e423179e964373fad81362759f7b7b8241cf8151609ac220cc87d5b433","features":{},"yanked":false}
 {"name":"pups_core","vers":"0.1.13","deps":[],"cksum":"257f729bf621a358423ff127cd585c660a9bf7298b784b02de44f7291900dda8","features":{},"yanked":false}
+{"name":"pups_core","vers":"0.1.14","deps":[],"cksum":"319527d6cf04942fc28253b1b8cc86a4d53b723f54683069028993433e4d420e","features":{},"yanked":false}
