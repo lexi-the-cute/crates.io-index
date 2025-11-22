@@ -11,3 +11,4 @@
 {"name":"solana-svm-measure","vers":"3.0.9","deps":[],"cksum":"b3fe809376f627182ec76449c0418b6ded65df65837d76e9d77f09859b24db5c","features":{},"yanked":false}
 {"name":"solana-svm-measure","vers":"3.0.10","deps":[],"cksum":"3e3c0ecb1caf08e9d70e41ca99bb18550e05e9a40dce8866fd1c360e67fa78c5","features":{},"yanked":false}
 {"name":"solana-svm-measure","vers":"3.1.1","deps":[],"cksum":"bec6414c96443785fd16fd9541cc20ea09b9bf245fc6afd4825d2d5e85104575","features":{"agave-unstable-api":[]},"yanked":false}
+{"name":"solana-svm-measure","vers":"3.1.2","deps":[],"cksum":"a822b4f1e07d06d06bcfa0c1653fbe062bf61ea55cb1c848c94ad2b52e78de9e","features":{"agave-unstable-api":[]},"yanked":false}
