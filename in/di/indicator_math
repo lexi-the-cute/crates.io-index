@@ -2,3 +2,4 @@
 {"name":"indicator_math","vers":"0.2.0","deps":[],"cksum":"0bb68552d7dcab9fc4357bba85ece1ed4407c217285977a1c2d0b049d8918032","features":{},"yanked":false}
 {"name":"indicator_math","vers":"0.3.0","deps":[],"cksum":"4a69d6e9401e9b8b877a5f806ca192f234d2e093a83ac8d0e678b66332c780bd","features":{},"yanked":false}
 {"name":"indicator_math","vers":"0.4.0","deps":[],"cksum":"6f3f9ff5886b0c3e3f18196fc8a7f710e5cbc55e66d6e8f00706b8cf45159b8d","features":{},"yanked":false}
+{"name":"indicator_math","vers":"0.4.1","deps":[],"cksum":"ea22b99f8a217536eaaff1bee95b78f161de15d0dfa8b08aaabaecfefb7b0954","features":{},"yanked":false}
