@@ -1,0 +1,1 @@
+{"name":"redstr","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13e69fcc268f786052992c71077d15ba65a3df7629f5c3afef6a8d759a406f6b","features":{"cli":[],"default":[]},"features2":{"serde":["dep:serde"]},"yanked":false,"v":2}
