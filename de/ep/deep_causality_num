@@ -5,3 +5,4 @@
 {"name":"deep_causality_num","vers":"0.1.4","deps":[],"cksum":"2feccdc3bc870aaaf7df83af98544f4f2d2fef7ba9588f6c5dde962d59c6447e","features":{},"yanked":false,"rust_version":"1.89.0"}
 {"name":"deep_causality_num","vers":"0.1.5","deps":[],"cksum":"a9a3d351b0c491f4b8ea157752fa9215b7f989732dc0e830dd56504f54f2ef70","features":{},"yanked":false,"rust_version":"1.89.0"}
 {"name":"deep_causality_num","vers":"0.1.6","deps":[],"cksum":"8898f0bc0397a651a6483fe115d0daf77d4c3ee1a0cca979d309bbdd9cf24180","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"deep_causality_num","vers":"0.1.7","deps":[],"cksum":"43dcd024414bd6dce2d945916efb362197a48ed841163a6d225e11ca39e6a2d7","features":{},"yanked":false,"rust_version":"1.90.0"}
