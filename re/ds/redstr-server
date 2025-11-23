@@ -1,0 +1,1 @@
+{"name":"redstr-server","vers":"0.1.0","deps":[{"name":"redstr","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"482e49a43d507878b8e1f228de7245df96f66bcb31f92602e7519a1fb0b0618d","features":{},"yanked":false}
