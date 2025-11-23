@@ -1,0 +1,1 @@
+{"name":"solana-vortexor","vers":"3.1.11","deps":[{"name":"solana-sdk","req":"^1.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"751691030a889a26ec94c651828973f0c5e7c8f65464bfe54ceeba91355a7ec2","features":{},"yanked":false}
