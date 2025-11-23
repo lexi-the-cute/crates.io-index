@@ -1,0 +1,1 @@
+{"name":"godot-properties-parser","vers":"0.1.0","deps":[{"name":"nom","req":"^8.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0afb693bae655dec3f3067128e7743a1527c470d0c99bed968db67f81c780cf8","features":{},"yanked":false}
