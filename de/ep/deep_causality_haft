@@ -2,3 +2,4 @@
 {"name":"deep_causality_haft","vers":"0.2.0","deps":[],"cksum":"aa2f14f214f7b28b14061a8caae6ca59a8c2eb9a56c49cc5ec599286bf57318c","features":{},"yanked":false,"rust_version":"1.89.0"}
 {"name":"deep_causality_haft","vers":"0.2.1","deps":[],"cksum":"8d02abfacfc9e22f8debd34290b48a794077d50b97a126476c3405c67cfc8e2f","features":{},"yanked":false,"rust_version":"1.89.0"}
 {"name":"deep_causality_haft","vers":"0.2.2","deps":[],"cksum":"723dd042524e635e25aa352b392c111d265f7e4386b64669d67cdb2958ebce38","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"deep_causality_haft","vers":"0.2.3","deps":[{"name":"deep_causality_num","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ff062c4405f1cc9f072717ab47a8539a663355da51731c1bfe17dd5fd85ff44","features":{},"yanked":false,"rust_version":"1.90.0"}
