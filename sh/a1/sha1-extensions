@@ -1,0 +1,1 @@
+{"name":"sha1-extensions","vers":"0.1.0","deps":[{"name":"sha1","req":"^0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ab231f43d5d3a78e45aab36dd29d211c0b98110f1e10b7803e923f67c0795a91","features":{},"yanked":false}
