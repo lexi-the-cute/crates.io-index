@@ -1,0 +1,1 @@
+{"name":"fusabi-frontend","vers":"0.1.0","deps":[{"name":"fusabi-vm","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"26a0969238b56f0b344c87fc30715eb28f25b8317cf99f5f708acc82974ed6be","features":{},"yanked":false}
