@@ -1,1 +1,2 @@
 {"name":"crossterm-keybind-derive","vers":"0.0.0","deps":[],"cksum":"214006eef407a9fae4d5eaaae4874c02cbebcefc1f0900f2403432255b6f1d49","features":{},"yanked":false,"rust_version":"1.85.0"}
+{"name":"crossterm-keybind-derive","vers":"0.0.1","deps":[],"cksum":"4ab636eb69264463515a47a9d69d50af420f31b70c6f4b1ce51ae20d8fc04875","features":{},"yanked":false,"rust_version":"1.85.0"}
