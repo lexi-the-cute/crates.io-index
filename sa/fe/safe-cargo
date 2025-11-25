@@ -1,0 +1,1 @@
+{"name":"safe-cargo","vers":"0.1.2","deps":[{"name":"indoc","req":"^2.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"trycmd","req":"^0.15.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"296c720080a5d2c1ec19db859054939141ecba65c545edbcdd2372b600dfc529","features":{},"yanked":false}
