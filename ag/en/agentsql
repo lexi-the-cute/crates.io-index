@@ -1,1 +1,2 @@
 {"name":"agentsql","vers":"0.1.1","deps":[],"cksum":"f35f47cd38eef99df458804ef0b281b6a5008b18fb31acc5afedf33fee767891","features":{},"yanked":false}
+{"name":"agentsql","vers":"0.1.2","deps":[],"cksum":"1c16efc7242d8a6dae7f85c0fb1be3fccabc286fa29f56511475b2a0f02ea9f4","features":{"default":["sqlite"],"mysql":[],"postgres":[],"sqlite":[]},"yanked":false}
