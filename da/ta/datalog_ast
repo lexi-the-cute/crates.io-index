@@ -1,1 +1,2 @@
 {"name":"datalog_ast","vers":"0.1.0","deps":[],"cksum":"67614053fc812a24152119dcef3a41173d1eb103f62d6b1b249eea2d6d60ffa4","features":{},"yanked":false,"rust_version":"1.74"}
+{"name":"datalog_ast","vers":"0.2.0","deps":[],"cksum":"7b71b1abae79887b21959e3ba2a82e7d52a96705fb5fa0841a40f211aed7611a","features":{},"yanked":false,"rust_version":"1.74"}
