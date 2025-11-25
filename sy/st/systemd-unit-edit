@@ -1,1 +1,2 @@
 {"name":"systemd-unit-edit","vers":"0.1.0","deps":[{"name":"rowan","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55b11ce48abba99676484a7b26f1cbf4d7d19db253ad2a4de1ea71159ff02c4c","features":{},"yanked":false}
+{"name":"systemd-unit-edit","vers":"0.1.1","deps":[{"name":"rowan","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d13c027065b366ef610d71e4d88c875d78e2328ae5fb58ebae2deaa30c8cfd40","features":{},"yanked":false}
