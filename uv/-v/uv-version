@@ -1,1 +1,2 @@
 {"name":"uv-version","vers":"0.9.11","deps":[],"cksum":"eeddd067621d9614e431b2e60ac7259cf6f6f9eab6df53411a81421457bb7ad3","features":{},"yanked":false,"rust_version":"1.89"}
+{"name":"uv-version","vers":"0.9.12","deps":[],"cksum":"b5a8d8172a44a842efa5484af11534eb86a2ca2665b90f4d89ac4dc4a51b4bd4","features":{},"yanked":false,"rust_version":"1.89"}
