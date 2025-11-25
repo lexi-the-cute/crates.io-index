@@ -17,3 +17,4 @@
 {"name":"rspack_browser","vers":"0.6.2","deps":[],"cksum":"b82c0bf0ef4610a6379d751e44151d77a048edfc75bb45d129b8b1d41d917d16","features":{},"yanked":false}
 {"name":"rspack_browser","vers":"0.6.3","deps":[],"cksum":"cbce50e269b13f83da764a35f643d703386f37c285ae9374badb1d2b3302f882","features":{},"yanked":false}
 {"name":"rspack_browser","vers":"0.6.4","deps":[],"cksum":"3810b6ef5383ac5318320500381bcb7d5063b6017014bd029385bc6b6ed8149c","features":{},"yanked":false}
+{"name":"rspack_browser","vers":"0.6.5","deps":[],"cksum":"fbaabff7d2eb325aa496619c03585a3811e464484cabb09bb4a4129648460733","features":{},"yanked":false}
