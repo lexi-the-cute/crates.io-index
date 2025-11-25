@@ -8,3 +8,4 @@
 {"name":"static_vcruntime","vers":"1.5.0","deps":[],"cksum":"83a66ac5e3d6efd5d6a19771a699d12772eaab6b1821342fbe2563ba0782396a","features":{},"yanked":false}
 {"name":"static_vcruntime","vers":"1.5.1","deps":[],"cksum":"a88c15d6fe7210ea80c578b53855615fdea0188e1630b6d9c377e1b2f2c098fa","features":{},"yanked":false}
 {"name":"static_vcruntime","vers":"2.0.0","deps":[],"cksum":"954e3e877803def9dc46075bf4060147c55cd70db97873077232eae0269dc89b","features":{},"yanked":false}
+{"name":"static_vcruntime","vers":"3.0.0","deps":[],"cksum":"ff7589a1859b09232522bb9edf076ca7fcf14ded96685d3fa629db73023ffbb7","features":{},"yanked":false,"rust_version":"1.79"}
