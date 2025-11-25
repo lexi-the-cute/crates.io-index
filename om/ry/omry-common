@@ -3,3 +3,4 @@
 {"name":"omry-common","vers":"0.4.0","deps":[],"cksum":"2d7570fe05d1c1f0b742b0b517c672a90700a2f55a5dba209d50416ee1702c1c","features":{},"yanked":false,"rust_version":"1.91.0"}
 {"name":"omry-common","vers":"0.5.0","deps":[],"cksum":"9fb41b956e175f9f1164ad7e596ffd7842a2e46537540681409f378c0909a15b","features":{},"yanked":false,"rust_version":"1.91.0"}
 {"name":"omry-common","vers":"0.6.0","deps":[],"cksum":"8a8d64e3b6dcac254f46417cf8554e1639994c02fbd7e2d146455c27aa3d4f34","features":{},"yanked":false,"rust_version":"1.91.0"}
+{"name":"omry-common","vers":"0.7.0","deps":[],"cksum":"c010e36f1a83f0b5b794b725c8d2dc9409dd61164306ca074cd39e32874d1ded","features":{},"yanked":false,"rust_version":"1.91.0"}
