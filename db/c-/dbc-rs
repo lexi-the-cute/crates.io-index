@@ -1,0 +1,1 @@
+{"name":"dbc-rs","vers":"0.1.0-alpha","deps":[],"cksum":"10e13ac0bf75d4b70da419abf0b6baadabffb69fa9b20654e38e2f10f01d83ea","features":{"default":["std"],"lang-de":[],"lang-es":[],"lang-fr":[],"lang-ja":[],"std":[]},"yanked":false,"rust_version":"1.85.0"}
