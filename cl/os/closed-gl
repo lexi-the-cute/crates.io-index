@@ -1,0 +1,1 @@
+{"name":"closed-gl","vers":"0.1.0","deps":[{"name":"gl","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"322b87728b5ef73fcbefd2c5f80892d10ff2a53fa64f45e035dd510913f57661","features":{},"yanked":false}
