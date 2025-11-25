@@ -1,0 +1,1 @@
+{"name":"tulna-rs","vers":"0.1.0","deps":[{"name":"murmur3","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"regex","req":"^1.12.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9007597b6f548f0a53ea3d1d9c59457c19de3a41357f84df5c5abfb41bc1cfd2","features":{},"yanked":false}
