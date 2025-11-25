@@ -6,3 +6,4 @@
 {"name":"datalog_ast","vers":"0.2.4","deps":[],"cksum":"2acecffe5f752fcda4ec42618f9711157d0a47a0fb55622beb635883bcd91110","features":{},"yanked":false,"rust_version":"1.74"}
 {"name":"datalog_ast","vers":"0.2.5","deps":[],"cksum":"89aeb159b39d073e025f05131643eeb215555f59048d054e5ce324d202d3e700","features":{},"yanked":false,"rust_version":"1.74"}
 {"name":"datalog_ast","vers":"0.2.6","deps":[],"cksum":"1eaf87099592a508f6013f79bd71bbf0a81facd9d2734a3fa6fbad5fa617509a","features":{},"yanked":false,"rust_version":"1.74"}
+{"name":"datalog_ast","vers":"0.2.7","deps":[],"cksum":"3f60d9f09da5aad23b3e8f4a71d1ccb166479e2ef39539bcbb18ee5218e79775","features":{},"yanked":false,"rust_version":"1.74"}
