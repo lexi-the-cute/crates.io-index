@@ -1,0 +1,1 @@
+{"name":"systemd-unit-edit","vers":"0.1.0","deps":[{"name":"rowan","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55b11ce48abba99676484a7b26f1cbf4d7d19db253ad2a4de1ea71159ff02c4c","features":{},"yanked":false}
