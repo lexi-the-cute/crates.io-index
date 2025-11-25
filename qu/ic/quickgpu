@@ -1,0 +1,1 @@
+{"name":"quickgpu","vers":"0.0.1","deps":[{"name":"wgpu","req":"^27.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df85fd4a8e9d8d2322f9f8f931ee6101c63b1557ccd9a80d627625493f198e47","features":{},"yanked":false}
