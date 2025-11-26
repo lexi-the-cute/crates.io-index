@@ -1,0 +1,1 @@
+{"name":"rank-fusion","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"proptest","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"eb6da53db01f0d8edc0383a27bd4300a23ff0d7d3d81fcfa999ee251f90a2415","features":{},"yanked":false}
