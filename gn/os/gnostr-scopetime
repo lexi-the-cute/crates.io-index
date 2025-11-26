@@ -1,0 +1,1 @@
+{"name":"gnostr-scopetime","vers":"1906.925289.572444","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"164753dfe78db42840bc0e121d262c87092cb15ee7693d605c67712969b4bf16","features":{"default":[],"enabled":[]},"yanked":false}
