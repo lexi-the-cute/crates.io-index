@@ -1,2 +1,0 @@
-{"name":"solana-vortexor","vers":"3.1.11","deps":[{"name":"solana-sdk","req":"^1.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"751691030a889a26ec94c651828973f0c5e7c8f65464bfe54ceeba91355a7ec2","features":{},"yanked":false}
-{"name":"solana-vortexor","vers":"3.1.12","deps":[{"name":"solana-sdk","req":"^1.18.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83e8d6e4e33312d2cde54dd69634dd600b07e0ebaa8dd30b50906f75a3ac4cb7","features":{},"yanked":false}
