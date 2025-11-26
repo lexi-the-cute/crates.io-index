@@ -2,3 +2,4 @@
 {"name":"rank-refine","vers":"0.2.0","deps":[],"cksum":"9ef5a9cad330bac0f0fce629699482aef0e2ddfab7a700f1444182210e8e6704","features":{"default":[]},"yanked":false}
 {"name":"rank-refine","vers":"0.3.0","deps":[],"cksum":"43ba8195e07d83606db8baff08b8598f445cf7330b4d4dbf7524fde7ac68608a","features":{},"yanked":false}
 {"name":"rank-refine","vers":"0.4.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"90252a7f30cb85b513ff81ea1c2b6627fc119d9018bf08e6d2d65a1c14ffeefc","features":{},"yanked":false}
+{"name":"rank-refine","vers":"0.5.0","deps":[{"name":"criterion","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"d9580d671014d2d4693e6f2081f24ba222e8ae61102b485152592e8bd638ef9f","features":{},"yanked":false}
