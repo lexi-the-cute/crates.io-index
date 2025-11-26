@@ -1,0 +1,1 @@
+{"name":"gibberish-gibberish-parser","vers":"0.1.0","deps":[{"name":"gibberish-core","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f959a8330d2c8f081daba8ffc1bec7edf25fbe862501db5aabc9c89dd580c9ea","features":{},"yanked":false}
