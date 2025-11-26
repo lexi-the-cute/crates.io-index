@@ -1,3 +1,4 @@
 {"name":"astroxide","vers":"0.0.1","deps":[],"cksum":"a594ded6d2a7b73d963abc82ca9738dca041d864857cfbef97ef39e8476a1446","features":{},"yanked":false}
 {"name":"astroxide","vers":"0.0.2","deps":[{"name":"phf","req":"^0.12.1","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"293fd1a817ea2d288246e8986f9397790fe56635ad744284eed6719a0b267030","features":{},"yanked":false}
 {"name":"astroxide","vers":"0.0.3","deps":[{"name":"phf","req":"^0.12.1","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a37f12b3c02910f3c066508448a0d97b9c90c1c390f6cb32cf2cf656d9df1732","features":{},"yanked":false}
+{"name":"astroxide","vers":"0.0.4","deps":[{"name":"phf","req":"^0.12.1","features":["macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f2d4aa5f2d9cac8d1a09c276f0dc2593d6b1c8bf61cc7e77676b62eefeae933","features":{},"yanked":false}
