@@ -1,2 +1,3 @@
 {"name":"rank-refine","vers":"0.1.0","deps":[],"cksum":"163ae1f8b7a160a0ee46059cdc684f9b4ccc66d97418502444853f116bd674be","features":{"default":[]},"yanked":false}
 {"name":"rank-refine","vers":"0.2.0","deps":[],"cksum":"9ef5a9cad330bac0f0fce629699482aef0e2ddfab7a700f1444182210e8e6704","features":{"default":[]},"yanked":false}
+{"name":"rank-refine","vers":"0.3.0","deps":[],"cksum":"43ba8195e07d83606db8baff08b8598f445cf7330b4d4dbf7524fde7ac68608a","features":{},"yanked":false}
