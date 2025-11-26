@@ -1,1 +1,2 @@
 {"name":"droidpi","vers":"0.1.0","deps":[{"name":"image","req":"^0.25.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db888f282f603e8a1b9b8e83fde9fe5fa6227f169dff8089969309cd0940326b","features":{},"yanked":false}
+{"name":"droidpi","vers":"0.1.1","deps":[{"name":"image","req":"^0.25.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"178a1bab57d69ef7f962aba176d4374eca46c92efbd564bfdd8f5b25bf62c8ba","features":{},"yanked":false}
