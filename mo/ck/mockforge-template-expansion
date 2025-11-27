@@ -1,0 +1,1 @@
+{"name":"mockforge-template-expansion","vers":"0.3.3","deps":[{"name":"serde_json","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"50b7f56ac7d5d26165569e6e65607f2ea3b98bacc7d522749834486f0a116ab6","features":{},"yanked":false}
