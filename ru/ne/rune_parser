@@ -11,3 +11,4 @@
 {"name":"rune_parser","vers":"0.6.2","deps":[],"cksum":"3334c1af3760847b61eb4ca3ef55c2912548484328d5ca560f788d4c6ddc1420","features":{},"yanked":false}
 {"name":"rune_parser","vers":"0.7.0","deps":[],"cksum":"b28e5845ac8e625a3ae9ea31caa627fba3e7eb66a128989f8689b7d9fc215a88","features":{},"yanked":false}
 {"name":"rune_parser","vers":"0.7.1","deps":[],"cksum":"92433304ad01cc45086d987820f757508f9592997b6c74ab2e6bf2e673c3020e","features":{},"yanked":true}
+{"name":"rune_parser","vers":"0.7.2","deps":[],"cksum":"e40a1826a88ddf91d77e24e0c82e95d9bd12906de2462d6aff2d4f514f47c185","features":{},"yanked":false}
