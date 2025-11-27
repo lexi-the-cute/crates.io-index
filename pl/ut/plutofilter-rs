@@ -1,0 +1,1 @@
+{"name":"plutofilter-rs","vers":"0.1.0","deps":[{"name":"image","req":"^0.25.8","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f07ca90527ebe2d29005f4ff2f7dd5da584a75154f5a921a7a0f24aa3ed3c5d","features":{},"features2":{"default":["image"],"image":["dep:image"]},"yanked":false,"v":2}
