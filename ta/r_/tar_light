@@ -1,2 +1,3 @@
 {"name":"tar_light","vers":"0.1.0","deps":[],"cksum":"e31859fe13f2a8c138295354b565283b13c19a54f29c5ec93a8683a5199f2096","features":{},"yanked":false}
 {"name":"tar_light","vers":"0.1.1","deps":[],"cksum":"618ead1bd98b6f42f0728401ebbf41540f86965307e25676606df2bb46e6db4a","features":{},"yanked":false}
+{"name":"tar_light","vers":"0.1.2","deps":[{"name":"flate2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32c24d5d5a0a5a401934ceab9e9c4c89571a09b9c8c4c4cda0676258fa1e6324","features":{},"yanked":false}
