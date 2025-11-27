@@ -35,3 +35,4 @@
 {"name":"near-stable-hasher","vers":"0.34.0-rc.2","deps":[],"cksum":"342feb546a0acc9eb06c0ebe797bf392b02af4f55cdc2d9a7b8721f464e9a42e","features":{},"yanked":false}
 {"name":"near-stable-hasher","vers":"0.34.0-rc.3","deps":[],"cksum":"cd7ca773fff7096d2a035c1a9e57d3f20141cccc41a9d64904eff3c2e98a4c02","features":{},"yanked":false}
 {"name":"near-stable-hasher","vers":"0.34.0-rc.4","deps":[],"cksum":"0e92daace37f73905f3a8c9de77b7fce4c102a20116db915bf58cbf917e38cfa","features":{},"yanked":false}
+{"name":"near-stable-hasher","vers":"0.34.0-rc.5","deps":[],"cksum":"f0a4be618ffe1a4319751fe30e44812acd8731c1e6f3240d74bcdd65ac96c562","features":{},"yanked":false}
