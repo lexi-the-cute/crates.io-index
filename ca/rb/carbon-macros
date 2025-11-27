@@ -21,3 +21,4 @@
 {"name":"carbon-macros","vers":"0.9.1","deps":[],"cksum":"8b25860aa07157b08d1dd30d8c66a509210c52ce01841566ddf577b6c4f87292","features":{},"yanked":false}
 {"name":"carbon-macros","vers":"0.10.0","deps":[],"cksum":"23175f9aa37308c836d1cb5b4b42cbfe178e168a2e6dbba42f50a51b27c529f8","features":{},"yanked":false}
 {"name":"carbon-macros","vers":"0.11.0","deps":[],"cksum":"0a7440d269ba3544a130967f9aba6a50c5818c69d62dc2bbdd96fa37fa5c2f36","features":{},"yanked":false}
+{"name":"carbon-macros","vers":"0.12.0","deps":[],"cksum":"50085799d24728d29148fd8b7a618b39f88c5f0784112c883ce46908e7d0b168","features":{},"yanked":false}
