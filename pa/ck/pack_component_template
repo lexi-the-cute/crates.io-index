@@ -11,3 +11,4 @@
 {"name":"pack_component_template","vers":"0.4.2","deps":[],"cksum":"4cff8c8d2d24c75bb2c445d49edc870b2f846c7ecb959589ebd45902e78b877e","features":{},"yanked":false}
 {"name":"pack_component_template","vers":"0.4.3","deps":[],"cksum":"c45f9b75fc1d5bb9ec7b4b733a559778a999e083e128bbb5ac0db9fe8772f6d1","features":{},"yanked":false}
 {"name":"pack_component_template","vers":"0.4.4","deps":[],"cksum":"9990e94d7a032a4e54df06fa3f8d165c97766cb427ad2cb721b34f95baa484b4","features":{},"yanked":false}
+{"name":"pack_component_template","vers":"0.4.5","deps":[],"cksum":"3de8bd2e9ff001a3ee89ba4114c42fb4253673840053a2f029b0340e95e055be","features":{},"yanked":false}
