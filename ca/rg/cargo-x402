@@ -1,0 +1,1 @@
+{"name":"cargo-x402","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a7f80054ea4afe05a83ca62fe5cd42a15d7ebace77612c7fadb5bd2cf3dddfa3","features":{},"yanked":false}
