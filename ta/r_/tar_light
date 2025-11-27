@@ -2,3 +2,4 @@
 {"name":"tar_light","vers":"0.1.1","deps":[],"cksum":"618ead1bd98b6f42f0728401ebbf41540f86965307e25676606df2bb46e6db4a","features":{},"yanked":false}
 {"name":"tar_light","vers":"0.1.2","deps":[{"name":"flate2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"32c24d5d5a0a5a401934ceab9e9c4c89571a09b9c8c4c4cda0676258fa1e6324","features":{},"yanked":false}
 {"name":"tar_light","vers":"0.1.3","deps":[{"name":"flate2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f515260c6daec2b09531671bf9c50ab6333d0430789b5812f393744ad6eb86e","features":{},"yanked":false}
+{"name":"tar_light","vers":"0.1.4","deps":[{"name":"flate2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"36962a54c259db5c5b9188c667ecb0e061baaa26ddf039645a637def0414f44b","features":{},"yanked":false}
