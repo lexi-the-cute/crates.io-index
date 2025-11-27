@@ -1,0 +1,1 @@
+{"name":"michis_undo_redo","vers":"0.1.0","deps":[{"name":"rstest","req":"^0.26","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"48c06ffdd4b56296fc0fb2bc97c37a7888d3d98a15b50f57c9f90ca5dbb0c3cd","features":{},"yanked":false}
