@@ -1,0 +1,1 @@
+{"name":"ledgible","vers":"0.2.0","deps":[{"name":"clap","req":"^4.5.51","features":["cargo"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eb27080e3746b57f0ee7d7f569ef5ff15029e8636dc5d1138404d762210ddfeb","features":{},"yanked":false,"rust_version":"1.89.0"}
