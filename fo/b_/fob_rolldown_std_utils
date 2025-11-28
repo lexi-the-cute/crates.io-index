@@ -1,0 +1,1 @@
+{"name":"fob_rolldown_std_utils","vers":"1.0.0-beta.50","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3987b457c564850070444c8b5734a878ecbe88a5955b3ae0f615619a1dc99b4","features":{},"yanked":false}
