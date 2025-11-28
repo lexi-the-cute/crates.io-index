@@ -8,3 +8,4 @@
 {"name":"dv","vers":"0.1.5","deps":[],"cksum":"ce7ad7c99d4547530b7f671a99061d30ce15f6e660b2af5d391bd1053a8a3a0f","features":{},"yanked":false}
 {"name":"dv","vers":"0.1.6","deps":[],"cksum":"025fb9b8add6b40f170fde7cad5803f620843577692fd9bc6c302dc4841f8a29","features":{},"yanked":false}
 {"name":"dv","vers":"0.1.7","deps":[],"cksum":"a475bd592217dc0a52c71987c97f85e0c164b6dd64fabf8b8afe85bcabef8085","features":{},"yanked":false}
+{"name":"dv","vers":"0.2.0","deps":[],"cksum":"bca067901c6fec8df7d9bfc02bb9b8acfd74e3131a51897aa685dd24f5c759a8","features":{},"yanked":false}
