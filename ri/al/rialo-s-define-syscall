@@ -1,2 +1,3 @@
 {"name":"rialo-s-define-syscall","vers":"0.1.0","deps":[],"cksum":"db997444f723f98ac3df52ae5c8bfb71f46909c2ba61dbe7afdc24c58b1dccf4","features":{},"yanked":false}
 {"name":"rialo-s-define-syscall","vers":"0.1.1","deps":[],"cksum":"09b86e616418ef84fd6d2a58050de3d368a631497419fdecfc5484377f2b51ae","features":{},"yanked":false}
+{"name":"rialo-s-define-syscall","vers":"0.1.6","deps":[{"name":"polkavm-derive","req":"^0.26.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d7db85b248e0e7e818d0434640d48bf1ac35f5dd0854b9db07946a011889c8bf","features":{},"yanked":false}
