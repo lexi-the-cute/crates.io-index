@@ -1,3 +1,4 @@
 {"name":"cli-assert","vers":"0.1.0","deps":[],"cksum":"df485d4d8ecf7ee9826c07761930c6a098f00b1b18c47dae6eeddef8a0cf272c","features":{},"yanked":false}
 {"name":"cli-assert","vers":"0.1.1","deps":[],"cksum":"947979916089cd5b05730c2d0f19841013c355aae278187e353c563a271f5e5c","features":{},"yanked":false}
 {"name":"cli-assert","vers":"0.1.2","deps":[],"cksum":"ca44f39c170699ab73b095fa1857e70ce31f3e3b32ec871b946671cbcb618330","features":{},"yanked":false}
+{"name":"cli-assert","vers":"0.1.3","deps":[],"cksum":"4b595e9ca07fa65cf0446b5070fb816c082db1f95fd02b0fcb286bd504b89108","features":{},"yanked":false}
