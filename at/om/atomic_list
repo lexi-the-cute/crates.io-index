@@ -3,3 +3,4 @@
 {"name":"atomic_list","vers":"1.1.0","deps":[],"cksum":"5f74c1b6e7007de09f884fd961a028efdb8ccf3087ae85155cdbcd8f58e50a89","features":{},"yanked":false}
 {"name":"atomic_list","vers":"1.1.1","deps":[],"cksum":"ad3579a614820b5d6e5bdbfd618d6d79e4f36baa2f238eeb5d97feeeb78436e1","features":{},"yanked":false}
 {"name":"atomic_list","vers":"1.2.1","deps":[],"cksum":"c6d8399e270d31b2ebdccff7b9b4f55cb52c91ebdee0117ce1ce62b9c25e550d","features":{},"yanked":false}
+{"name":"atomic_list","vers":"1.3.1","deps":[],"cksum":"af09813ac09871ab12d5b7dd3aeed6e1880e8068eb2ef0a56e0e0bfc86d6d15c","features":{},"yanked":false}
