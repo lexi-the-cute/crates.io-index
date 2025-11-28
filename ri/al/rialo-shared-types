@@ -1,1 +1,2 @@
 {"name":"rialo-shared-types","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0.219","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"60975b3637e74e1aef3fd5d77261701dbf3900cc81bdc60359787fcd435b2c9d","features":{},"yanked":false}
+{"name":"rialo-shared-types","vers":"0.1.6","deps":[{"name":"serde","req":"^1.0.219","features":["derive","rc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a26eb9c14b66a350a035bd0fc9ad59c0ec666dc6e36433efa040922aedb0ddd3","features":{},"yanked":false}
