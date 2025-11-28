@@ -5,3 +5,4 @@
 {"name":"pagino","vers":"1.0.4","deps":[],"cksum":"c640daa007232822d131e50d1405dfc5a8fe3b1b3d4867cdd47e349eadd7a7db","features":{},"yanked":false}
 {"name":"pagino","vers":"1.0.5","deps":[],"cksum":"adda48c566b8fa8d84652d985d391a07318a4048fbe8b50afb8341cc556b72e7","features":{},"yanked":false}
 {"name":"pagino","vers":"1.0.6","deps":[],"cksum":"2d92a3d888e0fde9329579faf1e04e8fc45a6aa45470952d8c0fcb351729cec0","features":{},"yanked":false}
+{"name":"pagino","vers":"1.0.7","deps":[],"cksum":"62d21f10608ad1bdcd278d02b0c5005aeda897fa69b3e319d65d71602ffe05cd","features":{},"yanked":false}
