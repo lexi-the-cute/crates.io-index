@@ -1,0 +1,1 @@
+{"name":"smoital","vers":"0.1.0","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"416122fa7d539d5ed878f616b05619c90174022f09ed3537f8fc399dc663c386","features":{},"yanked":false}
