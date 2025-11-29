@@ -37,3 +37,4 @@
 {"name":"uast","vers":"6.0.4","deps":[],"cksum":"d58e0d9ef9ec29bce71899007061132f9b5ca1620241c14b02948b8e1259ee15","features":{},"yanked":false,"rust_version":"1.90.0"}
 {"name":"uast","vers":"6.0.5","deps":[],"cksum":"8714b3e61529ce453c885f46b2f789752686152abc423f4a090472e93448aac1","features":{},"yanked":false,"rust_version":"1.90.0"}
 {"name":"uast","vers":"6.0.6","deps":[],"cksum":"0317b4dbcba78ec4288db275d78b34225f3a3115f4cb4869953077976fa2ae8d","features":{},"yanked":false,"rust_version":"1.91.1"}
+{"name":"uast","vers":"6.0.7","deps":[],"cksum":"202836673d30a932885597069ed8cfb2a02c56179722567aaeb7789b0f2ce379","features":{},"yanked":false,"rust_version":"1.85.1"}
