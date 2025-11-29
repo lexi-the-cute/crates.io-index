@@ -1,0 +1,1 @@
+{"name":"jetblack-options","vers":"0.1.0","deps":[{"name":"libm","req":"^0.2.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a307e61d67906b1def000c90efcd18315b6dea7b70042f91ea0dd171fc05570d","features":{},"yanked":false,"rust_version":"1.85.0"}
