@@ -12,3 +12,4 @@
 {"name":"bint","vers":"0.1.12","deps":[],"cksum":"7ba3d08cce353635c306a6363f3f9c460f71d4923d793d4c20f5cc082459af84","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"bint","vers":"0.1.13","deps":[],"cksum":"d2871beb9e49180308fdf760b86f85d7a65c11670c36d7f521efd212411d64b0","features":{},"yanked":false,"rust_version":"1.56.0"}
 {"name":"bint","vers":"0.1.14","deps":[],"cksum":"359dcea9236a8286accc51d3133d3ef8feef0227c967ead3825d886cc0ccc428","features":{},"yanked":false,"rust_version":"1.56.0"}
+{"name":"bint","vers":"0.1.15","deps":[],"cksum":"b5d0934057ab6e16d1840f0373e394775c08a6da42b2c3522e3c2166517b5dda","features":{},"yanked":false,"rust_version":"1.56.0"}
