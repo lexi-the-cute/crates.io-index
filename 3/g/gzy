@@ -1,0 +1,1 @@
+{"name":"gzy","vers":"1.0.0","deps":[{"name":"clap","req":"^4.5","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"30dbb8ceb504a5b39fb267bbf94975bef499e7ef44a886668519e763985d0380","features":{},"yanked":false}
