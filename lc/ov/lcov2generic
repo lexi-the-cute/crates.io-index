@@ -1,0 +1,1 @@
+{"name":"lcov2generic","vers":"0.1.1","deps":[{"name":"xmlwriter","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fb61a05446219b22b7ec6e1a9832ca8ce6866aa64260ae4cf703b26f6f5dffdb","features":{},"yanked":false}
