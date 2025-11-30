@@ -1,0 +1,1 @@
+{"name":"haste-reflect","vers":"0.1.1","deps":[{"name":"haste-reflect-derive","req":"0.*","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"94bdf3e02f909b115a04f63758ff70c16f865796dddfcf5167f17c0da60c5f35","features":{},"features2":{"derive":["dep:haste-reflect-derive"]},"yanked":false,"v":2}
