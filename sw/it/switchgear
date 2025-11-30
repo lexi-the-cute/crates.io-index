@@ -8,3 +8,4 @@
 {"name":"switchgear","vers":"0.1.13","deps":[],"cksum":"cc4738cb546f11e6960d25dd5ce02e2666e4151dfff73a3f1ada451337a876e8","features":{},"yanked":false}
 {"name":"switchgear","vers":"0.1.14","deps":[],"cksum":"bccc219b73d9a7d1c525f37b2de839084710687e9e5a0a3d6490c85eafc0cb7b","features":{},"yanked":false}
 {"name":"switchgear","vers":"0.1.16","deps":[],"cksum":"98a16a219fc7bd6b6a848476b185d3e8a437a30175a8aef4f19e8520eb434b05","features":{},"yanked":false}
+{"name":"switchgear","vers":"0.1.17","deps":[],"cksum":"bd497100fb37253a1843d1d091405350e3cf8ca2c0b42d8f813e8d85d70a7c9a","features":{},"yanked":false}
