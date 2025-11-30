@@ -1,0 +1,1 @@
+{"name":"asvgard","vers":"0.1.0","deps":[{"name":"titanf","req":"^2.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"22c9951627a996d07d6578081efa5c499e80799c19606bfe630d74ed5ccf9198","features":{"default":["std"],"std":[]},"yanked":false}
