@@ -1,1 +1,2 @@
 {"name":"affs-read","vers":"0.1.0","deps":[],"cksum":"f17be20817ce7f5c75f54785dfddbe17a4e1126cd994d0289ad8b9b3cfd1b932","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
+{"name":"affs-read","vers":"0.2.0","deps":[],"cksum":"c7bdc8048310c5c252792bb14ef9ecf6b797bfb7685d03d4d10e1dd72606962f","features":{"alloc":[],"default":["std"],"std":[]},"yanked":false}
