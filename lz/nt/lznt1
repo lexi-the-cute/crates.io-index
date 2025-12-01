@@ -1,0 +1,1 @@
+{"name":"lznt1","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"thiserror","req":"^2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"f918c6233cf7c2097af5c30600102db57d183a5eefac64f8a3653828e340d9cf","features":{},"yanked":false}
