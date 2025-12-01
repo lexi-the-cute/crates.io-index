@@ -1,0 +1,1 @@
+{"name":"gntp","vers":"0.1.1","deps":[{"name":"uuid","req":"^1.6","features":["v4"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbd7c35034d695a24620a4f190263bf7f3cd14f04a4b2330cfc8107c9b2196cc","features":{},"yanked":false,"rust_version":"1.70"}
