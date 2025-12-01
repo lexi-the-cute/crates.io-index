@@ -1,0 +1,1 @@
+{"name":"woofwoof","vers":"1.0.0","deps":[{"name":"brotli","req":"^7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b898f7724d2a1ddeb11bdc85e07b684b9b4ddd48fdf5a3872bf15f52041c82b2","features":{},"yanked":false}
