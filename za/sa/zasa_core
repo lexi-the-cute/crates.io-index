@@ -6,3 +6,4 @@
 {"name":"zasa_core","vers":"0.5.0","deps":[],"cksum":"206a6feebd2a438316c432ea81fe04c4419a5f449af8c30dd700b176263f1156","features":{},"yanked":false}
 {"name":"zasa_core","vers":"0.5.1","deps":[],"cksum":"e5c17ec85d05b88bd9105980418efc2fbd98af87a210a1de5e23416493c23dcc","features":{},"yanked":false}
 {"name":"zasa_core","vers":"0.6.0","deps":[],"cksum":"82bbe7515468dec39ae13fa539d1cd5033c752bcabf4b25dabd71f680e30cc65","features":{},"yanked":false}
+{"name":"zasa_core","vers":"0.7.0-beta.0","deps":[],"cksum":"08d6a64fd487b9a4e757e253d8efc47d0cb7ee73f90fcaacfddc75b7014374d2","features":{},"yanked":false}
