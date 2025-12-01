@@ -9,3 +9,4 @@
 {"name":"bobcat-console","vers":"0.6.8","deps":[],"cksum":"38428f760c5ed4080e89e81a66b3b8f80677c17239b247a5ba64eb1f62e5878c","features":{},"yanked":false}
 {"name":"bobcat-console","vers":"0.6.9","deps":[],"cksum":"a87c407d26798ed95f766b95dc5d2dd1d38d1bfcef46ef40f56d6c8d817b5cb0","features":{},"yanked":false}
 {"name":"bobcat-console","vers":"0.7.0","deps":[],"cksum":"ef59eb8530eb4763ebb54b6d16587052c6fb0aae59db8b9def32ac0972399a6d","features":{},"yanked":false}
+{"name":"bobcat-console","vers":"0.7.1","deps":[],"cksum":"71d17e547942ab5b92edcff0999466f6add327b8a0534ed34b1cff49f214d629","features":{},"yanked":false}
