@@ -2,3 +2,4 @@
 {"name":"game_board","vers":"1.0.1","deps":[],"cksum":"4fed633a9d514f8fd9ec3da072ff268d45214ef28f91ec02408bacbe39ea86eb","features":{},"yanked":false}
 {"name":"game_board","vers":"1.0.2","deps":[],"cksum":"c656dec8ce55b880ed9df831a2d92e320c98ca87d70a457019a1aa25691d7666","features":{},"yanked":false}
 {"name":"game_board","vers":"1.0.3","deps":[],"cksum":"daf3abdc6aabf24c510f17d7bbdc75514f338d7f0c8545843942460f9ab9718b","features":{},"yanked":false}
+{"name":"game_board","vers":"1.0.4","deps":[],"cksum":"a9ced4176edadf325e185c54eb9ad99b18e762c1602a694f2311d163002c67db","features":{},"yanked":false}
