@@ -16,3 +16,4 @@
 {"name":"cargo-cross","vers":"1.1.5","deps":[],"cksum":"1e5d2474afc93e33b69a63322d4d93133f1b5f4d8690290a007fdeac16b4a0a6","features":{},"yanked":false}
 {"name":"cargo-cross","vers":"1.1.6","deps":[],"cksum":"53f365f45451bbeec7ab38a103801fb9e65a1256617c99d8935d322cbe2b43af","features":{},"yanked":false}
 {"name":"cargo-cross","vers":"1.1.7","deps":[],"cksum":"c80dc541388b7d0e8989e85b347c934be88e0fdaa0cee69f631262eb2fe35794","features":{},"yanked":false}
+{"name":"cargo-cross","vers":"1.1.8","deps":[],"cksum":"d85ad1845294e610382896016dac7239a104cfdbebc30e0319ac876a0b317884","features":{},"yanked":false}
