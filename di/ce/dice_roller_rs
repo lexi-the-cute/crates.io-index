@@ -1,0 +1,1 @@
+{"name":"dice_roller_rs","vers":"0.1.0","deps":[{"name":"rand","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"25b46a7b8354cf76c83e28d86382237b34a93c194621a695d6ae00d873f891f8","features":{},"yanked":false}
