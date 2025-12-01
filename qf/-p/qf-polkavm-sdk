@@ -1,0 +1,1 @@
+{"name":"qf-polkavm-sdk","vers":"0.2.0","deps":[{"name":"qf-polkavm-sdk-procedural","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bf7699009ca284259e0318920fdad4d6707093b9ba7f948a2047877bc5cb379e","features":{"global-allocator":[],"panic-handler":[]},"yanked":false}
